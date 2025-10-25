@@ -1,4 +1,4 @@
-<center><img src="assets/RedVeilLogoTextBlackNoPadding.png" height="100px" alt="Redveil logo"></center>
+<center><img src="../assets/RedVeilLogoTextBlackNoPadding.png" height="100px" alt="Redveil logo"></center>
 <hr>
 
 ## Who we are
