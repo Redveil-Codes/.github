@@ -1,4 +1,11 @@
-<center><img src="../assets/RedVeilLogoTextBlackNoPadding.png" height="100px" alt="Redveil logo"></center>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="../assets/RedVeilLogoTextWhiteNoPadding.png">
+    <source media="(prefers-color-scheme: light)" srcset="../assets/RedVeilLogoTextBlackNoPadding.png">
+    <img alt="Redveil logo" src="../assets/RedVeilLogoTextBlackNoPadding.png" height="100">
+  </picture>
+</p>
+
 <hr>
 
 ## Who we are
