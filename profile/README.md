@@ -20,4 +20,4 @@ SvelteKit · TypeScript · Tailwind CSS · Vite · Node.js · GitHub Actions
 
 ## Having issues?
 
-Go to the private repository and open a issue and it wil be fixed as quickly as possible
+Go to the private repository we have issued you, and open a issue and it wil be fixed as quickly as possible!
